@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library.iml" filepath="$PROJECT_DIR$/.idea/modules/library.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library_main.iml" filepath="$PROJECT_DIR$/.idea/modules/library_main.iml" group="library" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library_test.iml" filepath="$PROJECT_DIR$/.idea/modules/library_test.iml" group="library" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/noval-provider.iml" filepath="$PROJECT_DIR$/.idea/modules/noval-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/noval-provider_main.iml" filepath="$PROJECT_DIR$/.idea/modules/noval-provider_main.iml" group="noval-provider" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/noval-provider_test.iml" filepath="$PROJECT_DIR$/.idea/modules/noval-provider_test.iml" group="noval-provider" />
     </modules>
   </component>
 </project>
